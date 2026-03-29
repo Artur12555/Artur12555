@@ -14,7 +14,7 @@ Cybersecurity leader with one of the world's largest collections of industry cer
 
 **Speaking soon on** &mdash; CISSP DAY 2026 (Warsaw) &bull; .NET Group Gdansk 2026
 
-**Community** &mdash; GIAC Council &bull; CREST Member &bull; CTF Team Lead
+**Community** &mdash; GIAC Council &bull; ISC2 &bull; CREST Member &bull; CTF Team Lead
 
 ---
 
