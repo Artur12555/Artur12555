@@ -2,7 +2,7 @@
 
 **Cybersecurity Leader** @ Volue | MSc Computer Science
 
-Cybersecurity leader with one of the world's largest collections of industry certifications. Coming from a software development background, now focused on leading security teams, scaling security programs, and embedding security into engineering culture. First person to achieve all Hack The Box certifications. GIAC Council member.
+Cybersecurity leader with one of the world's largest collections of industry certifications. Coming from a software development background, now focused on leading security teams, scaling security programs, and embedding security into engineering culture. First person to achieve all Hack The Box Academy certifications. GIAC Council member.
 
 [![Website](https://img.shields.io/badge/chlebicki.art-000?style=flat-square&logo=firefox&logoColor=fff)](https://chlebicki.art)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/artur3151a426a/)
