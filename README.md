@@ -19,3 +19,4 @@ Cybersecurity leader with one of the world's largest collections of industry cer
 ---
 
 <sub>Gdansk, Poland</sub>
+
