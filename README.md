@@ -12,9 +12,9 @@ Cybersecurity leader with one of the world's largest collections of industry cer
 
 **43 Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSEP, OSWE, OSCP+, OSWP, GPEN, GCIH, GCIA, GSP, CRTO, CRTL, CPTS, BSCP, CAPE, CCNP Security, AWS Security, AWS SA, AZ-500, SC-100, SecurityX, and more.
 
-**Speaking** &mdash; CISSP DAY 2026 (Warsaw) &bull; .NET Group Gdansk 2026
+**Speaking soon on** &mdash; CISSP DAY 2026 (Warsaw) &bull; .NET Group Gdansk 2026
 
-**Community** &mdash; GIAC Council Advisor &bull; CREST Member &bull; HTB Mentor &bull; CTF Team Lead ([1000Sons](https://ctftime.org))
+**Community** &mdash; GIAC Council Advisor &bull; CREST Member &bull; HTB Mentor &bull; CTF Team Lead
 
 ---
 
