@@ -10,7 +10,7 @@
 
 ---
 
-**43 Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSEP, OSWE, OSCP+, OSWP, GPEN, GCIH, GCIA, GSP, CRTO, CRTL, CPTS, BSCP, CAPE, CCNP Security, AWS Security, AWS SA, AZ-500, SC-100, SecurityX, and more.
+**Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSEP, OSWE, OSCP+, OSWP, GPEN, GCIH, GCIA, GSP, CRTO, CRTL, CPTS, BSCP, CAPE, CCNP Security, AWS Security, AWS SA, AZ-500, SC-100, SecurityX, and more.
 
 **Speaking soon on** &mdash; CISSP DAY 2026 (Warsaw) &bull; .NET Group Gdansk 2026
 
