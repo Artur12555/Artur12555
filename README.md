@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/chlebicki.art-000?style=flat-square&logo=firefox&logoColor=fff)](https://chlebicki.art)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/artur3151a426a/)
-[![Blog](https://img.shields.io/badge/Blog-000?style=flat-square&logo=rss&logoColor=fff)](https://chlebicki.art/blog)
+
 
 ---
 
