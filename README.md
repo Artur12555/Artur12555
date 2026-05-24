@@ -16,5 +16,3 @@
 
 ---
 
-<sub>Gdansk, Poland</sub>
-
