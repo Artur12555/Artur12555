@@ -10,9 +10,7 @@
 
 ---
 
-**Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSEP, OSWE, OSCP+, OSWP, GPEN, GCIH, GCIA, GSP, CRTO, CRTL, CPTS, BSCP, CAPE, CCNP Security, AWS Security, AWS SA, AZ-500, SC-100, SecurityX, and more.
-
-**Community** &mdash; GIAC Council &bull; ISC2 &bull; CREST Member &bull; CTF Team Lead
+**Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSCE3
 
 ---
 
