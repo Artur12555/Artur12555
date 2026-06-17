@@ -10,7 +10,7 @@
 
 ---
 
-**Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSCE3
+**Certifications** &mdash; CISSP, CISM, CCSP, CSSLP, OSCE3, GSE #431
 
 ---
 
