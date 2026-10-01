@@ -1,6 +1,6 @@
 # Artur Chlebicki
 
-**Cybersecurity guy** @ Volue | MSc Computer Science
+**Cybersecurity** @ Volue | MSc Computer Science
 
 
 
